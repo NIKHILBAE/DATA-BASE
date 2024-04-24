@@ -1,2 +1,4 @@
-SERVER  = ALIVE
-VERSION = 0.7.2 Beta
+{
+  "SERVER_STATUS": "ALIVE",
+  "VERSION": "0.7.2 Beta"
+}
